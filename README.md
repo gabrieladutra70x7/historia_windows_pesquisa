@@ -1,4 +1,4 @@
-# estudo-sop# 
+versao-faltante
 🪟 Evolução do Sistema Operacional Windows
 
 Repositório destinado à pesquisa histórica das versões do Microsoft Windows, realizado para a disciplina de Sistemas Operacionais.
