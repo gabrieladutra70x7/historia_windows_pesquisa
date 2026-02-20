@@ -1,5 +1,6 @@
 versao-faltante
-🪟 Evolução do Sistema Operacional Windows
+
+Evolução do Sistema Operacional Windows
 
 Repositório destinado à pesquisa histórica das versões do Microsoft Windows, realizado para a disciplina de Sistemas Operacionais.
 
@@ -20,12 +21,6 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 | **Windows 8**    | 2012 | Interface Metro otimizada para toque.               | Removeu o Menu Iniciar tradicional. |
 | **Windows 10**   | 2015 | Retorno do Menu Iniciar e atualizações contínuas. | Foi anunciado como “a última versão” do Windows (antes do 11). |
 | **Windows 11**   | 2021 | Menu Iniciar centralizado e suporte a apps Android.    | É a primeira versão que exige obrigatoriamente o chip de segurança TPM 2.0. |
-
-## 🛠️ Como Contribuir
-1. Faça um Fork do projeto.
-2. Crie uma branch para sua versão: `git checkout -b feature/versao-faltante`.
-3. Commit suas mudanças: `git commit -m 'Adicionando Windows Vista'`.
-4. Push para a branch: `git push origin feature/versao-faltante`.
 
 ---
 Desenvolvido por Gabriela Gimenez Dutra - 2026.
